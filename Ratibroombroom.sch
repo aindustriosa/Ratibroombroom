@@ -3720,4 +3720,6 @@ Text Notes 12475 2875 0    50   ~ 0
 Engadín R32 e R33 para que\nen caso de 3º estado os nos \npines do micro, non se activen\nos motores
 Text Notes 3875 8675 0    50   ~ 0
 Por qué?
+Text Notes 10000 8275 0    50   ~ 0
+Comentar cómo se vai\na integrar a PCB principal\ncoas dos encoders
 $EndSCHEMATC
