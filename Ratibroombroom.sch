@@ -3717,7 +3717,7 @@ JP1 e JP2:\nse poden quedar\nabertos, valen \npara desconectar\nmotores
 Text Notes 6800 2825 0    50   ~ 0
 C3, C4, C5, C6\nteñen que ir ahí \nou a 3V3.\nComentar
 Text Notes 12475 2875 0    50   ~ 0
-Engadín R32 e R33 para que\nen caso de 3º estado os nos \npines do micro, non se activen\nos motores
+Engadín R32 e R33 para que\nen caso de 3º estado nos \npines do micro, non se activen\nos motores
 Text Notes 3875 8675 0    50   ~ 0
 Por qué?
 Text Notes 10000 8275 0    50   ~ 0
