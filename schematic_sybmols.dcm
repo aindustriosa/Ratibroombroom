@@ -10,6 +10,12 @@ D Dual Low-Voltage H-Bridge IC
 F http://www.ti.com/lit/ds/symlink/drv8835.pdf
 $ENDCMP
 #
+$CMP IRF7416PbF
+D P-MOSFET transistor
+K transistor PMOS P-MOS P-MOSFET
+F https://www.infineon.com/dgdl/irf7416pbf.pdf
+$ENDCMP
+#
 $CMP L6932D1.2TR
 D 2A 1.2-5V HIGH PERFORMANCE ULDO LINEAR REGULATOR
 K ULDO regulator linear  SO-8
