@@ -1257,7 +1257,7 @@ F 0 "Q10" H 14891 6296 50  0000 L CNN
 F 1 "S8050" H 14891 6205 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-23" H 14900 6350 50  0001 C CNN
 F 3 "~" H 14700 6250 50  0001 C CNN
-F 4 "SS8050" H 14700 6250 50  0001 C CNN "MFR"
+F 4 "S8050-J3Y" H 14700 6250 50  0001 C CNN "MFR"
 	1    14700 6250
 	1    0    0    -1  
 $EndComp
@@ -3783,8 +3783,6 @@ $EndComp
 Connection ~ 14450 8000
 Wire Wire Line
 	12100 3500 13000 3500
-Text Notes 13600 5650 0    50   ~ 0
-Cambio 1N1418 por 1N4148\nse me colei avisa
 Text Notes 9125 10700 0    50   ~ 0
 Decidir color LEDs
 Text Notes 5450 9500 0    50   ~ 0
@@ -3882,4 +3880,6 @@ F 4 "DRV8835DSSR" H 11900 2150 50  0001 C CNN "MFR"
 	1    11900 2150
 	1    0    0    -1  
 $EndComp
+Text Notes 6900 2650 0    50   ~ 0
+Calcular valores das resistencias\nde emisores e receptores
 $EndSCHEMATC
