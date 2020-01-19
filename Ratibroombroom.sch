@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:Ratibroombroom-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -2953,7 +2953,7 @@ P 11900 2150
 F 0 "U2" H 11550 1550 50  0000 C CNN
 F 1 "DRV8835" H 11650 1450 50  0000 C CNN
 F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 12350 2600 50  0001 L CNN
-F 3 "" H 11750 2700 50  0001 C CNN
+F 3 "DRV8835DSSR" H 11750 2700 50  0001 C CNN
 	1    11900 2150
 	1    0    0    -1  
 $EndComp
@@ -3560,8 +3560,9 @@ U 1 1 5EF3C465
 P 14550 2150
 F 0 "U7" H 14200 1550 50  0000 C CNN
 F 1 "DRV8835" H 14300 1450 50  0000 C CNN
-F 2 "Package_SO:TSSOP-16_4.4x5mm_P0.65mm" H 15000 2600 50  0001 L CNN
+F 2 "Package_SON:WSON-12-1EP_3x2mm_P0.5mm_EP1x2.65_ThermalVias" H 15000 2600 50  0001 L CNN
 F 3 "" H 14400 2700 50  0001 C CNN
+F 4 "DRV8835DSSR" H 14550 2150 50  0001 C CNN "MFR"
 	1    14550 2150
 	1    0    0    -1  
 $EndComp
@@ -3820,8 +3821,6 @@ Wire Wire Line
 	12100 3500 13000 3500
 Text Notes 12850 8200 0    50   ~ 0
 Os encoders non levan\ncondesador de desacoplo\nna súa PCB??
-Text Notes 12650 1875 0    50   ~ 0
-O DRV8835 non o atopo \nen TSSOP, estará ben a \nreferencia??
 Text Notes 13600 5650 0    50   ~ 0
 Cambio 1N1418 por 1N4148\nse me colei avisa
 Text Notes 9125 10700 0    50   ~ 0
