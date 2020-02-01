@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Ratibroombroom)(type KiCad)(uri ${KIPRJMOD}/Ratibroombroom.pretty)(options "")(descr ""))
+)
