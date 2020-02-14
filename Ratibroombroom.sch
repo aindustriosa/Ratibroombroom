@@ -3548,7 +3548,7 @@ Wire Wire Line
 Wire Wire Line
 	15200 1200 15200 1300
 Text Label 14700 1200 0    50   ~ 0
-V_MOTOR_L
+V_MOTOR_R
 Wire Wire Line
 	15300 2200 15300 2400
 Wire Wire Line
