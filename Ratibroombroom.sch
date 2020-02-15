@@ -2531,7 +2531,7 @@ U 1 1 5F4BE547
 P 13600 8750
 F 0 "J10" H 13850 8300 50  0000 C CNN
 F 1 "Conn_01x04_Male" V 13550 8750 50  0000 C CNN
-F 2 "Ratibroombroom:Edge_connector_4P_1x3mm" H 13600 8750 50  0001 C CNN
+F 2 "Ratibroombroom:Pad_SMD_4P_1x3mm" H 13600 8750 50  0001 C CNN
 F 3 "~" H 13600 8750 50  0001 C CNN
 	1    13600 8750
 	-1   0    0    1   
@@ -2706,7 +2706,7 @@ U 1 1 5F6A8701
 P 15850 8750
 F 0 "J11" H 16100 8300 50  0000 C CNN
 F 1 "Conn_01x04_Male" V 15800 8750 50  0000 C CNN
-F 2 "Ratibroombroom:Edge_connector_4P_1x3mm" H 15850 8750 50  0001 C CNN
+F 2 "Ratibroombroom:Pad_SMD_4P_1x3mm" H 15850 8750 50  0001 C CNN
 F 3 "~" H 15850 8750 50  0001 C CNN
 	1    15850 8750
 	-1   0    0    1   
