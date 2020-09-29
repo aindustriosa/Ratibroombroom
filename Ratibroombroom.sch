@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Ratibroombroom-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -2846,7 +2845,7 @@ Wire Wire Line
 Connection ~ 7850 9750
 NoConn ~ 2000 10050
 Text Label 3450 9850 0    50   ~ 0
-BUTTON_1
+BUTTON_2
 Wire Wire Line
 	3400 9850 4000 9850
 Text Notes 13100 7800 0    118  ~ 24
