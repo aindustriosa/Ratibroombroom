@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +3.3V_a
+D Power symbol creates a global label with name "+3.3V_a"
+K power-flag
+$ENDCMP
+#
+$CMP +3.3V_b
+D Power symbol creates a global label with name "+3.3V_b"
+K power-flag
+$ENDCMP
+#
 $CMP AS5145B-HSST
 D 12-Bit Programmable Magnetic Rotary Encoder
 F https://ams.com/documents/20143/36005/AS5145_DS000398_1-00.pdf
@@ -8,6 +18,26 @@ $ENDCMP
 $CMP DRV8835
 D Dual Low-Voltage H-Bridge IC
 F http://www.ti.com/lit/ds/symlink/drv8835.pdf
+$ENDCMP
+#
+$CMP GND_a
+D Power symbol creates a global label with name "GND_a" , ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_b
+D Power symbol creates a global label with name "GND_b" , ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_c
+D Power symbol creates a global label with name "GND_c" , ground
+K power-flag
+$ENDCMP
+#
+$CMP GND_d
+D Power symbol creates a global label with name "GND_d" , ground
+K power-flag
 $ENDCMP
 #
 $CMP IRF7416PbF

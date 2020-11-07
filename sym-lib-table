@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name schematic_sybmols)(type Legacy)(uri ${KIPRJMOD}/schematic_sybmols.lib)(options "")(descr ""))
+  (lib (name Ratibroombroom-rescue)(type Legacy)(uri ${KIPRJMOD}/Ratibroombroom-rescue.lib)(options "")(descr ""))
 )
